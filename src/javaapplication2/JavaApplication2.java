@@ -15,7 +15,7 @@ public class JavaApplication2 {
     int numero;
     int resultado,cantidadNumero=0;
     
-    numero=Integer.parseInt(JOptionPane.showInputDialog("DIgite el numero"));
+    numero=Integer.parseInt(JOptionPane.showInputDialog("Digite el numero: "));
     
     for (int i = 1; i <= 10 ; i++){
         

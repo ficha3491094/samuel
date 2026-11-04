@@ -1,5 +1,3 @@
-//Solicitar un número entero N y generar su tabla de multiplicar del 1 al 10 utilizando un ciclo fijo.
-//Al finalizar, mostrar cuántos de los resultados obtenidos son números pares.
 package javaapplication2;
 
 import javax.swing.JOptionPane;
@@ -7,9 +5,6 @@ import javax.swing.JOptionPane;
 
 public class JavaApplication2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        
     int numero;

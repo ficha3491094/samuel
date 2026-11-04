@@ -31,7 +31,7 @@ public class JavaApplication2 {
         
              
     }
-    JOptionPane.showMessageDialog(null,"cantidad de  numeros pares: "+cantidadNumero);
+    JOptionPane.showMessageDialog(null,"La cantidad de  numeros pares es: "+cantidadNumero);
     }
   
     }
